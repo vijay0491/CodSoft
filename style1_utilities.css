@@ -1,0 +1,15 @@
+.change-bg{ 
+    background-color:#fa9f00'
+    ;
+   }
+   .container{
+    border: 1px solid rgb(0, 0, 0);
+    width: fit-content;
+    padding: 30px;
+    background-color: #101820;
+    
+   }
+   
+   .mx-auto{
+     margin: auto;
+   }
